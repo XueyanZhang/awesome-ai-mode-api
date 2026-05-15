@@ -12,6 +12,7 @@ A list of awesome AI Model API providers, platforms, projects
   - [Stability.ai](#stabilityai)
 - [API Platform](#api-platform)
   - [Deepinfra](#deepinfra)
+  - [TokenScope](#tokenscope)
   - [Hugging Face](#hugging-face)
   - [NLP Cloud](#nlp-cloud)
   - [Replicate](#replicate)
@@ -82,6 +83,13 @@ DeepInfra is a powerful machine learning platform that offers fast and scalable 
 [Models](https://deepinfra.com/models) |
 [Pricing](https://deepinfra.com/pricing)
 
+### TokenScope
+TokenScope is an AI model API channel aggregation and price comparison platform, helping developers find the cheapest and most reliable API providers across 159+ channels and 16,000+ models.
+
+[Home](https://token-scope.com/) |
+[Models](https://token-scope.com/channels) |
+[Pricing](https://token-scope.com/compare)
+
 ### Hugging Face
 Hugging Face is an AI community that provides access to thousands of pretrained models.
 
@@ -147,5 +155,6 @@ We encourage all contributions to this repository via an
 [issue](https://github.com/XueyanZhang/awesome-ai-mode-api/issues)
 or a
 [pull request](https://github.com/XueyanZhang/awesome-ai-mode-api/pulls)
+
 
 
