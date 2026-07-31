@@ -15,6 +15,7 @@ A list of awesome AI Model API providers, platforms, projects
   - [Hugging Face](#hugging-face)
   - [NLP Cloud](#nlp-cloud)
   - [Replicate](#replicate)
+  - [RunAPI](#runapi)
   - [Together.ai](#togetherai)
 - [Open Source Projects](#open-source-projects)
   - [Llama 2 Chat](#llama-2-chat)
@@ -96,6 +97,13 @@ NLP Cloud offers high performance NLP API based on top-tier ML models.
 [Models](https://nlpcloud.io/models) |
 [Pricing](https://nlpcloud.io/pricing)
 
+### RunAPI
+RunAPI is an OpenAI-compatible API platform for model APIs, media generation, and usage tracking.
+
+[Home](https://runapi.ai/) |
+[Models](https://runapi.ai/models) |
+[Pricing](https://runapi.ai/pricing)
+
 ### Together
 Together AI provides a platform for collaborative AI development.
 
@@ -147,5 +155,4 @@ We encourage all contributions to this repository via an
 [issue](https://github.com/XueyanZhang/awesome-ai-mode-api/issues)
 or a
 [pull request](https://github.com/XueyanZhang/awesome-ai-mode-api/pulls)
-
 
