@@ -16,6 +16,7 @@ A list of awesome AI Model API providers, platforms, projects
   - [NLP Cloud](#nlp-cloud)
   - [Replicate](#replicate)
   - [RunAPI](#runapi)
+  - [SandBase](#sandbase)
   - [Together.ai](#togetherai)
 - [Open Source Projects](#open-source-projects)
   - [Llama 2 Chat](#llama-2-chat)
@@ -103,6 +104,13 @@ RunAPI is an OpenAI-compatible API platform for model APIs, media generation, an
 [Home](https://runapi.ai/) |
 [Models](https://runapi.ai/models) |
 [Pricing](https://runapi.ai/pricing)
+
+### SandBase
+SandBase provides a unified catalog of 2,000+ AI models and APIs through an open-source CLI and local MCP bridge for 25 AI clients.
+
+[Home](https://sandbase.ai/) |
+[Models](https://sandbase.ai/models) |
+[Pricing](https://sandbase.ai/pricing)
 
 ### Together
 Together AI provides a platform for collaborative AI development.
