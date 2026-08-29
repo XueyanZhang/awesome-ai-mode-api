@@ -1,3 +1,5 @@
+
+
 # Awesome AI Model API
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/XueyanZhang/awesome-ai-mode-api/graphs/commit-activity)
@@ -7,7 +9,7 @@ A list of awesome AI Model API providers, platforms, projects
 - [API Providers](#api-providers)
   - [Anthropic \ Claude 2](#anthropic--claude-2)
   - [Azure OpenAI](#azure-openai)
-  - [GooseAI](#gooseai)
+  - [GooseAI](#goose-ai)
   - [OpenAI](#openai)
   - [Stability.ai](#stabilityai)
 - [API Platform](#api-platform)
@@ -155,4 +157,3 @@ We encourage all contributions to this repository via an
 [issue](https://github.com/XueyanZhang/awesome-ai-mode-api/issues)
 or a
 [pull request](https://github.com/XueyanZhang/awesome-ai-mode-api/pulls)
-
