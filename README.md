@@ -19,6 +19,7 @@ A list of awesome AI Model API providers, platforms, projects
   - [Replicate](#replicate)
   - [RunAPI](#runapi)
   - [Together.ai](#togetherai)
+  - [XiuRouter](#xiurouter)
 - [Open Source Projects](#open-source-projects)
   - [Llama 2 Chat](#llama-2-chat)
   - [Ollama.ai](#ollamaai)
@@ -112,6 +113,13 @@ Together AI provides a platform for collaborative AI development.
 [Home](https://together.ai/) |
 [Models](https://together.ai/models) |
 [Pricing](https://together.ai/pricing)
+
+### XiuRouter
+XiuRouter provides one API for leading models through OpenAI, Anthropic, and Gemini protocol routes, with scoped API keys and per-request usage and cost records.
+
+[Home](https://router.xiu.ai/) |
+[Models](https://docs.xiu.ai/router/models-pricing-usage/) |
+[Pricing](https://router.xiu.ai/pricing)
 
 ## Open Source Projects
 
