@@ -14,6 +14,7 @@ A list of awesome AI Model API providers, platforms, projects
   - [Stability.ai](#stabilityai)
 - [API Platform](#api-platform)
   - [Deepinfra](#deepinfra)
+  - [Heabsy](#heabsy)
   - [Hugging Face](#hugging-face)
   - [NLP Cloud](#nlp-cloud)
   - [Replicate](#replicate)
@@ -92,6 +93,13 @@ DeepInfra is a powerful machine learning platform that offers fast and scalable 
 [Home](https://deepinfra.com/) |
 [Models](https://deepinfra.com/models) |
 [Pricing](https://deepinfra.com/pricing)
+
+### Heabsy
+Heabsy is an OpenAI- and Anthropic-compatible inference API for open-weight models; models in its EEA tier run on dedicated GPUs in EEA data centres with zero data retention.
+
+[Home](https://heabsy.com/) |
+[Models](https://heabsy.com/models) |
+[Pricing](https://heabsy.com/models)
 
 ### Hugging Face
 Hugging Face is an AI community that provides access to thousands of pretrained models.
