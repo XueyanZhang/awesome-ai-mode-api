@@ -19,6 +19,7 @@ A list of awesome AI Model API providers, platforms, projects
   - [NLP Cloud](#nlp-cloud)
   - [Replicate](#replicate)
   - [RunAPI](#runapi)
+  - [Teapot Router](#teapot-router)
   - [Together.ai](#togetherai)
   - [XiuRouter](#xiurouter)
 - [Open Source Projects](#open-source-projects)
@@ -121,6 +122,13 @@ RunAPI is an OpenAI-compatible API platform for model APIs, media generation, an
 [Home](https://runapi.ai/) |
 [Models](https://runapi.ai/models) |
 [Pricing](https://runapi.ai/pricing)
+
+### Teapot Router
+Teapot Router is a hosted gateway for coding agents that speaks the Anthropic and OpenAI protocols on one key, with per-request cost, token, and latency logging, public machine-readable pricing, multi-upstream failover, and credit that never expires.
+
+[Home](https://teapotrouter.com/) |
+[Models](https://teapotrouter.com/en/pricing/claude-opus-5-5) |
+[Pricing](https://teapotrouter.com/api/pricing)
 
 ### Together
 Together AI provides a platform for collaborative AI development.
