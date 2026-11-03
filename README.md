@@ -13,6 +13,7 @@ A list of awesome AI Model API providers, platforms, projects
   - [OpenAI](#openai)
   - [Stability.ai](#stabilityai)
 - [API Platform](#api-platform)
+  - [Code By AI](#code-by-ai)
   - [Deepinfra](#deepinfra)
   - [Heabsy](#heabsy)
   - [Hugging Face](#hugging-face)
@@ -87,6 +88,13 @@ AIWave is a hosted OpenAI-compatible API gateway focused on Chinese model routes
 [Home](https://aiwave.live/) |
 [Models](https://aiwave.live/models/) |
 [Pricing](https://aiwave.live/pricing)
+
+### Code By AI
+Code By AI is a pay-per-token API gateway for AI coding agents: one API key and one prepaid balance for Claude, GPT/Codex and Gemini models, with OpenAI-compatible, Anthropic Messages and Gemini endpoints.
+
+[Home](https://www.codebyai.net/) |
+[Models](https://www.codebyai.net/models) |
+[Pricing](https://www.codebyai.net/pricing)
 
 ### Deepinfra
 DeepInfra is a powerful machine learning platform that offers fast and scalable inference for top AI models.
