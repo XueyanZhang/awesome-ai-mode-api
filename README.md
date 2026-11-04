@@ -124,6 +124,13 @@ NLP Cloud offers high performance NLP API based on top-tier ML models.
 [Models](https://nlpcloud.io/models) |
 [Pricing](https://nlpcloud.io/pricing)
 
+### MuAPI
+MuAPI provides a unified API for image, video, and audio generation with a live model catalog, model-specific endpoints, and asynchronous job results.
+
+[Home](https://muapi.ai) |
+[Models](https://muapi.ai/docs/models) |
+[Pricing](https://muapi.ai/pricing)
+
 ### RunAPI
 RunAPI is an OpenAI-compatible API platform for model APIs, media generation, and usage tracking.
 
