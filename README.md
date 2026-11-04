@@ -14,6 +14,7 @@ A list of awesome AI Model API providers, platforms, projects
   - [Stability.ai](#stabilityai)
 - [API Platform](#api-platform)
   - [Code By AI](#code-by-ai)
+  - [CodeI Lab](#codeilab)
   - [Deepinfra](#deepinfra)
   - [Heabsy](#heabsy)
   - [Hugging Face](#hugging-face)
@@ -95,6 +96,11 @@ Code By AI is a pay-per-token API gateway for AI coding agents: one API key and 
 [Home](https://www.codebyai.net/) |
 [Models](https://www.codebyai.net/models) |
 [Pricing](https://www.codebyai.net/pricing)
+
+### CodeI Lab
+CodeI Lab is a third-party GPT API gateway for coding agents that bills discounted credit for GPT-6 Astra/Sol, GPT-6.1 Sol/Terra and GPT-5.6 Sol/Terra over OpenAI or Claude protocols, configured for Claude Code, Codex CLI or OpenCode with one command.
+
+[Home](https://www.codeilab.com/)
 
 ### Deepinfra
 DeepInfra is a powerful machine learning platform that offers fast and scalable inference for top AI models.
