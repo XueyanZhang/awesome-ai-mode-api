@@ -22,6 +22,7 @@ A list of awesome AI Model API providers, platforms, projects
   - [RunAPI](#runapi)
   - [Teapot Router](#teapot-router)
   - [Together.ai](#togetherai)
+  - [UberLLM](#uberllm)
   - [XiuRouter](#xiurouter)
 - [Open Source Projects](#open-source-projects)
   - [Llama 2 Chat](#llama-2-chat)
@@ -151,6 +152,13 @@ Together AI provides a platform for collaborative AI development.
 [Home](https://together.ai/) |
 [Models](https://together.ai/models) |
 [Pricing](https://together.ai/pricing)
+
+### UberLLM
+UberLLM is a prepaid API with OpenAI-compatible (Chat Completions, Responses) and Anthropic Messages endpoints on one key for GPT, Claude, Gemini, DeepSeek, Qwen and uncensored text models, plus image, video, music and speech models; each request is billed at what its provider charged.
+
+[Home](https://uberllm.dev/) |
+[Models](https://uberllm.dev/models) |
+[Pricing](https://uberllm.dev/docs/pricing)
 
 ### XiuRouter
 XiuRouter provides one API for leading models through OpenAI, Anthropic, and Gemini protocol routes, with scoped API keys and per-request usage and cost records.
