@@ -18,6 +18,7 @@ A list of awesome AI Model API providers, platforms, projects
   - [Deepinfra](#deepinfra)
   - [Heabsy](#heabsy)
   - [Hugging Face](#hugging-face)
+  - [Imagera](#imagera)
   - [NLP Cloud](#nlp-cloud)
   - [Replicate](#replicate)
   - [RunAPI](#runapi)
@@ -123,6 +124,13 @@ Hugging Face is an AI community that provides access to thousands of pretrained 
 [Home](https://huggingface.co/) |
 [Models](https://huggingface.co/models) |
 [Pricing](https://huggingface.co/pricing)
+
+### Imagera
+Imagera provides one API key for 320+ language models from 48 labs on an OpenAI-compatible endpoint (https://api.imagera.ai/llm/v1, streaming supported, billed per token), plus image, video and audio generation models on the same key.
+
+[Home](https://imagera.ai/developers) |
+[Models](https://imagera.ai/llm-api) |
+[Model list JSON](https://api.imagera.ai/llm/v1/models)
 
 ### NLP Cloud
 NLP Cloud offers high performance NLP API based on top-tier ML models.
