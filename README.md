@@ -13,6 +13,7 @@ A list of awesome AI Model API providers, platforms, projects
   - [OpenAI](#openai)
   - [Stability.ai](#stabilityai)
 - [API Platform](#api-platform)
+  - [CloudGPU](#cloudgpu)
   - [Code By AI](#code-by-ai)
   - [CodeI Lab](#codeilab)
   - [Deepinfra](#deepinfra)
@@ -90,6 +91,13 @@ AIWave is a hosted OpenAI-compatible API gateway focused on Chinese model routes
 [Home](https://aiwave.live/) |
 [Models](https://aiwave.live/models/) |
 [Pricing](https://aiwave.live/pricing)
+
+### CloudGPU
+CloudGPU provides an OpenAI-compatible model API for developers.
+
+[Home](https://cloudgpu.app/) |
+[Models](https://cloudgpu.app/v1/models) |
+[Pricing](https://cloudgpu.app/api)
 
 ### Code By AI
 Code By AI is a pay-per-token API gateway for AI coding agents: one API key and one prepaid balance for Claude, GPT/Codex and Gemini models, with OpenAI-compatible, Anthropic Messages and Gemini endpoints.
