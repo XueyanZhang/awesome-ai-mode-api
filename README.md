@@ -24,6 +24,7 @@ A list of awesome AI Model API providers, platforms, projects
   - [Teapot Router](#teapot-router)
   - [Together.ai](#togetherai)
   - [UberLLM](#uberllm)
+  - [Vectoree](#vectoree)
   - [XiuRouter](#xiurouter)
 - [Open Source Projects](#open-source-projects)
   - [Llama 2 Chat](#llama-2-chat)
@@ -165,6 +166,13 @@ UberLLM is a prepaid API with OpenAI-compatible (Chat Completions, Responses) an
 [Home](https://uberllm.dev/) |
 [Models](https://uberllm.dev/models) |
 [Pricing](https://uberllm.dev/docs/pricing)
+
+### Vectoree
+Vectoree is a pay-as-you-go OpenAI-compatible gateway for coding agents with one project key for models from xAI, OpenAI, Google, Anthropic and DeepSeek, plus auth, Postgres and object storage, a CLI and agent skill, and a $5 welcome credit after CLI login and project link.
+
+[Home](https://vectoree.ai/) |
+[Models](https://vectoree.ai/product/model-plaza) |
+[Pricing](https://vectoree.ai/#pricing)
 
 ### XiuRouter
 XiuRouter provides one API for leading models through OpenAI, Anthropic, and Gemini protocol routes, with scoped API keys and per-request usage and cost records.
