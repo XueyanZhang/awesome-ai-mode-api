@@ -26,6 +26,7 @@ A list of awesome AI Model API providers, platforms, projects
   - [Together.ai](#togetherai)
   - [UberLLM](#uberllm)
   - [Vectoree](#vectoree)
+  - [Voice Infra by miraiminds](#voice-infra-by-miraiminds)
   - [XiuRouter](#xiurouter)
 - [Open Source Projects](#open-source-projects)
   - [Llama 2 Chat](#llama-2-chat)
@@ -181,6 +182,13 @@ Vectoree is a pay-as-you-go OpenAI-compatible gateway for coding agents with one
 [Home](https://vectoree.ai/) |
 [Models](https://vectoree.ai/product/model-plaza) |
 [Pricing](https://vectoree.ai/#pricing)
+
+### Voice Infra by miraiminds
+Voice Infra by miraiminds is a speech and language model API from India: Mira TTS on OpenAI's /v1/audio/speech protocol, Mira STT, and Gemma 4 26B served by Mira, on one API key, plus voice AI agents that place and answer phone calls in Hindi, Gujarati, Marathi, Bengali, Tamil, Telugu, Kannada, Malayalam and Hinglish.
+
+[Home](https://voice.miraiminds.co/) |
+[Models](https://voice.miraiminds.co/models) |
+[Pricing](https://voice.miraiminds.co/pricing)
 
 ### XiuRouter
 XiuRouter provides one API for leading models through OpenAI, Anthropic, and Gemini protocol routes, with scoped API keys and per-request usage and cost records.
