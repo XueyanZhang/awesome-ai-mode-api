@@ -19,12 +19,12 @@ A list of awesome AI Model API providers, platforms, projects
   - [Deepinfra](#deepinfra)
   - [Heabsy](#heabsy)
   - [Hugging Face](#hugging-face)
+  - [MartLLM](#martllm)
   - [NLP Cloud](#nlp-cloud)
   - [Replicate](#replicate)
   - [RunAPI](#runapi)
   - [Teapot Router](#teapot-router)
   - [Together.ai](#togetherai)
-  - [UberLLM](#uberllm)
   - [Vectoree](#vectoree)
   - [Voice Infra by miraiminds](#voice-infra-by-miraiminds)
   - [XiuRouter](#xiurouter)
@@ -134,6 +134,13 @@ Hugging Face is an AI community that provides access to thousands of pretrained 
 [Models](https://huggingface.co/models) |
 [Pricing](https://huggingface.co/pricing)
 
+### MartLLM
+MartLLM is a prepaid API with OpenAI-compatible (Chat Completions, Responses) and Anthropic Messages endpoints on one key for GPT, Claude, Gemini, DeepSeek, Qwen and uncensored text models, plus image, video, music and speech models; each request is billed at what its provider charged.
+
+[Home](https://martllm.com/) |
+[Models](https://martllm.com/models) |
+[Pricing](https://martllm.com/docs/pricing)
+
 ### NLP Cloud
 NLP Cloud offers high performance NLP API based on top-tier ML models.
 
@@ -168,13 +175,6 @@ Together AI provides a platform for collaborative AI development.
 [Home](https://together.ai/) |
 [Models](https://together.ai/models) |
 [Pricing](https://together.ai/pricing)
-
-### UberLLM
-UberLLM is a prepaid API with OpenAI-compatible (Chat Completions, Responses) and Anthropic Messages endpoints on one key for GPT, Claude, Gemini, DeepSeek, Qwen and uncensored text models, plus image, video, music and speech models; each request is billed at what its provider charged.
-
-[Home](https://uberllm.dev/) |
-[Models](https://uberllm.dev/models) |
-[Pricing](https://uberllm.dev/docs/pricing)
 
 ### Vectoree
 Vectoree is a pay-as-you-go OpenAI-compatible gateway for coding agents with one project key for models from xAI, OpenAI, Google, Anthropic and DeepSeek, plus auth, Postgres and object storage, a CLI and agent skill, and a $5 welcome credit after CLI login and project link.
