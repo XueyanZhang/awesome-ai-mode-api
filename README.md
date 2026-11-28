@@ -197,6 +197,14 @@ XiuRouter provides one API for leading models through OpenAI, Anthropic, and Gem
 [Models](https://docs.xiu.ai/router/models-pricing-usage/) |
 [Pricing](https://router.xiu.ai/pricing)
 
+### Plugsky
+Plugsky is an OpenAI-compatible API platform with 39 public model IDs behind one endpoint (`https://api.plugsky.com/v1`), flat Builder ($60/mo) and Scale ($120/mo) plans with no monthly token cap and no per-token overage, and private deployment by contract in Virginia, Frankfurt, UAE and Singapore (Riyadh on Enterprise only). Vendor-submitted; verify independently.
+
+[Home](https://plugsky.com/) |
+[Models](https://api.plugsky.com/v1/models) |
+[Pricing](https://plugsky.com/pricing) |
+[Enterprise API](https://plugsky.com/enterprise/ai-api-package)
+
 ## Open Source Projects
 
 ### Llama 2 Chat
